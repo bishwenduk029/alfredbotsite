@@ -1,5 +1,5 @@
 # **AlfredBot** at your service :tada:
----
+
 A Twitch extension for playing StarCraft 2 game with your viewers or your favorite streamers. Viewers do not even need to install the game or have a graphics heavy hardware. Viewers can command the StarCraft 2 game instance running on Streamer's channel through this Twitch extension.
 
 <p align="center"><img src="./AlfredBot.png" alt="eleventy Logo"></p>
