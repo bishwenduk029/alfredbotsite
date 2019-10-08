@@ -4,11 +4,11 @@ A Twitch extension for playing StarCraft 2 game with your viewers or your favori
 
 ## **Instructions for Streamers**
 
-- First install the [Desktop App](https://www.somsite.com) for AlfredBot.
+- First install the [Desktop App for Mac](https://www.somsite.com) for AlfredBot.
 - Install and Launch the App and Login with your Twitch Account.
 - Now click on the **Launch Game**. 
 - It is important to launch the game instance before going live on Twitch, otherwise incoming commands from your viewers will be lost.
-- Now click the **Start Game** button on Twitch extension Game tab.
+- Now click the **Start Game** button on Twitch extension Game tab. Take this action after a few minutes into the game to allow for sufficient minning so that your viewers can afford building different structures.
 - In the game currently you can only play against the computer.
 - Up to 5 players can join the game.
 - You can select any one of the Nexus to receive incoming commands from your viewers.
@@ -21,6 +21,7 @@ A Twitch extension for playing StarCraft 2 game with your viewers or your favori
 - Login into the AlfredBot Twitch extension with your Twitch account.
 - Buy any one of the command packages.
 - Now you are eligible to join ongoing live StarCraft 2 game session on current channel.
+- At this point you can check the mining stats of the game and wait for a few seconds before joining game to be able to afford building structures.
 - Click the **Join Game** button in extension to join a game session.
 - Up to 5 players can join the session, so if session is full then you can try later.
 - It is not necessary to exhaust the command package in one session. You can play a few commands and leave and join later.
