@@ -4,7 +4,7 @@ A Twitch extension for playing StarCraft 2 game with your viewers or your favori
 
 ## **Instructions for Streamers**
 
-- First install the [Desktop App for Mac](https://www.somsite.com) for AlfredBot.
+- First install the [Desktop App for Mac](https://github.com/bishwenduk029/alfredbotsite/releases/download/v1.0-alpha/AlfredBot-1.0.0-mac.zip) for AlfredBot.
 - Install and Launch the App and Login with your Twitch Account.
 - Now click on the **Launch Game**. 
 - It is important to launch the game instance before going live on Twitch, otherwise incoming commands from your viewers will be lost.
